@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/microsoft-
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json
+https://gist.githubusercontent.com/timothyrowan/8d1b38ebb7debe8b3e1411ac379382bd/raw/bff916f52b82e5a1e53b96a6e7a6df3c112f5c64/paramount-plus-allow-folder.json
