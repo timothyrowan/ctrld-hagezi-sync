@@ -5,4 +5,4 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json
 https://gist.githubusercontent.com/timothyrowan/8d1b38ebb7debe8b3e1411ac379382bd/raw/bff916f52b82e5a1e53b96a6e7a6df3c112f5c64/paramount-plus-allow-folder.json
 https://gist.githubusercontent.com/timothyrowan/72500843c85070176735e70c4a6577a7/raw/afd8f02e095fccd2c68b6f9daa9d50bb88ae5857/icloud-hide-my-email-allow-folder.json
-https://gist.githubusercontent.com/timothyrowan/5de20970a801ae7016bdafc239061b5e/raw/73277e86eb22ad5dacef5586561b34e0257f5f19/chezgnar-dns-redirect
+https://gist.githubusercontent.com/timothyrowan/5de20970a801ae7016bdafc239061b5e/raw/6852cc2a78aa371d3ddb1e292b71061095a66ba2/chezgnar-dns-redirect
